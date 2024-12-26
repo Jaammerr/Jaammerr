@@ -16,7 +16,7 @@
    <img src="https://img.shields.io/badge/Channel-0d1117?style=for-the-badge&logo=telegram&logoColor=229ED9&labelColor=20232a" alt="Telegram Channel">
  </a>
  &nbsp;&nbsp;
- <a href="https://t.me/JamBitChat">
+ <a href="https://t.me/+u7hWfz0WqsFkNmMy">
    <img src="https://img.shields.io/badge/Chat-0d1117?style=for-the-badge&logo=telegram&logoColor=229ED9&labelColor=20232a" alt="Telegram Chat">
  </a>
 </p>
